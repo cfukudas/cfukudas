@@ -21,11 +21,11 @@
   
 <div align="center"> 
    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=cfukudas&show_icons=true&theme=lightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" right="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfukudas&hide=scss&layout=compact&langs+count=16&theme=lightowl"/>
+   <img height="180em" right="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cfukudas&hide=scss&layout=compact&langs+count=16&theme=lightowl"/>
  </div> 
  
 
 
 <!-- <div align="center">
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=cfukudas&theme=nightowl" alt="Carlos Fukuda" /> 
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=cfukudas&theme=lightowl" alt="Carlos Fukuda" /> 
 </div> -->
