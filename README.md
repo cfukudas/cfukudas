@@ -7,8 +7,7 @@
  </h1> 
   
  <div align="left"> 
-    <p>  Oi, Sou o Carlos Fukuda! <br><br>
-         Estudante de Python e Devops <br>
+    <p>  Oi, Sou o Carlos Fukuda! <br>
          Analista de Redes e Segurança, trabalho com equipamentos Cisco, Palo Alto e Fortinet <br> <br>
          SP | Brasil<br><br>
         <img  alt="logo vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
